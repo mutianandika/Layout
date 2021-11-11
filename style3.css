@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.header-box .box1 {
+    background-color: lavender;
+    width: 10em;
+    height: 4em;
+    border: black 2px solid;
+}
+.header-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.header-box .box2 {
+    background-color: lavenderblush;
+    width: 73%;
+    height: 4em;
+    border: black 2px solid;
+}
+.main-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.main-box .box1 {
+    background-color: plum;
+    width: 10em;
+    height: 30em;
+    border: black 2px solid;
+}
+.main-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.main-box .box2 {
+    background-color: rgb(219, 192, 219);
+    width: 45em;
+    height: 30em;
+    border: black 2px solid;
+}
+.main-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.main-box .box3 {
+    background-color: rgb(182, 139, 182);
+    width: 10em;
+    height: 30em;
+    border: black 2px solid;
+}
+.footer-box {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.footer-box .box1 {
+    background-color: rgb(240, 190, 240);
+    width: 71em;
+    height: 4em;
+    border: black 2px solid;
+}
